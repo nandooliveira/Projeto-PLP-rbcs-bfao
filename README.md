@@ -11,6 +11,10 @@ Visa a implementação de tratamento de exceção no Paradigma Imperativo (Lingu
 - Rafael Borba - rbcs@cin.ufpe.br
 - Benedito Fernando - bfao@cin.ufpe.br
 
+## Apresentação
+
+[https://docs.google.com/presentation/d/1LTO1BQLRRKQlETjdm6zV86M6Jq4s3TpqKM9xo5H4v2E/edit#slide=id.p](https://docs.google.com/presentation/d/1LTO1BQLRRKQlETjdm6zV86M6Jq4s3TpqKM9xo5H4v2E/edit#slide=id.p)
+
 ## CONTEXTO
 
 A maioria das linguagens possui mecanismos para manipulação de erros em tempo de execução, conhecidos como exceções. Essa funcionalidade deve permitir o lançamento automático de exceções naturais (e.g. divisão por zero, out of bounds de arrays), bem como um operador para lançar uma exceção genérica, de acordo com a lógica do programa (throw). A exceção é avaliada
