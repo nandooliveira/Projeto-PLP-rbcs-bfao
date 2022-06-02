@@ -23,7 +23,7 @@ Os erros passados para o comando `throw` podem ser de 3 tipos diferentes: string
 
 ## Apresentação
 
-[[https://docs.google.com/presentation/d/1LTO1BQLRRKQlETjdm6zV86M6Jq4s3TpqKM9xo5H4v2E/edit#slide=id.p](https://docs.google.com/presentation/d/1tHAcwRArJtgYlsCDZocfr3qsbFYZ0f9rjxHTZbwrSR4/edit?usp=sharing)]([https://docs.google.com/presentation/d/1LTO1BQLRRKQlETjdm6zV86M6Jq4s3TpqKM9xo5H4v2E/edit#slide=id.p](https://docs.google.com/presentation/d/1tHAcwRArJtgYlsCDZocfr3qsbFYZ0f9rjxHTZbwrSR4/edit?usp=sharing))
+[https://docs.google.com/presentation/d/1tHAcwRArJtgYlsCDZocfr3qsbFYZ0f9rjxHTZbwrSR4/edit?usp=sharing](https://docs.google.com/presentation/d/1tHAcwRArJtgYlsCDZocfr3qsbFYZ0f9rjxHTZbwrSR4/edit?usp=sharing)
 
 ## Contexto
 
